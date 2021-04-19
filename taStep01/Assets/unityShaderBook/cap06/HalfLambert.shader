@@ -1,5 +1,4 @@
-﻿// 逐顶点光照
-Shader "cap06/HalfLambert"
+﻿Shader "cap06/HalfLambert"
 {
     Properties
     {

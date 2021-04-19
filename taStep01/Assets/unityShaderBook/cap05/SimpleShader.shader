@@ -1,6 +1,4 @@
-﻿// Upgrade NOTE: replaced 'mul(UNITY_MATRIX_MVP,*)' with 'UnityObjectToClipPos(*)'
-
-Shader "cap05/SimpleShader"
+﻿Shader "cap05/SimpleShader"
 {
     Properties{
         _Color ("Color", Color) = (1.0, 1.0, 1.0, 1.0)    

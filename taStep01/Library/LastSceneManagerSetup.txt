@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/unityShaderBook/cap06/06.unity
+- path: Assets/unityShaderBook/cap08/08.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
