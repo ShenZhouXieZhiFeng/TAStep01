@@ -8,7 +8,7 @@ Material:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_Name: ShadowMat
-  m_Shader: {fileID: 4800000, guid: 811c2203d11fb3c4fa5fa5ec1c547997, type: 3}
+  m_Shader: {fileID: 4800000, guid: d6de797a14a6663489fc72b34e335171, type: 3}
   m_ShaderKeywords: 
   m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
